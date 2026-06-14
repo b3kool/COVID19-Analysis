@@ -60,7 +60,7 @@ Identified the countries with the highest recorded number of cases during the pa
 <img width="299" height="292" alt="Screenshot 2026-06-14 at 9 54 07 PM" src="https://github.com/user-attachments/assets/225f7df2-a45b-43db-8dc6-9a6a34cc367e" />
 
 **Key Observation:**
-The United States, India, and Brazil recorded some of the largest outbreaks globally, though absolute case counts alone do not fully reflect pandemic severity as population varies.
+The United States, India, and France recorded some of the largest outbreaks globally, though absolute case counts alone do not fully reflect pandemic severity as population varies.
 
 ---
 
